@@ -504,7 +504,7 @@ border-radius: 3px;
  }
  .work_6 img{
   height: 50px;
-  width: 50px;
+  width:auto;
  }
 .work_5 p{ 
 padding-top:6px;

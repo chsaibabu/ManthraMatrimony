@@ -502,16 +502,13 @@ color: #fff;
 border-radius: 3px;
 
  }
- .work_6 img{
-  height: 50px;
-  width:auto;
- }
+
 .work_5 p{ 
 padding-top:6px;
 padding-left:10px;
  }
 .work_inner{ 
-background-color:#000;
+
 padding:10px 10px 10px 10px;
 margin-top:20px;
 margin-right:13px;
@@ -537,8 +534,9 @@ font-size: 16px;
 font-weight: bold;
  }
  .work_7 img {
-  height: 50px;
-  width: 100px;
+  border-radius: 10px;
+  height: 60px;
+  width: 150px;
  }
 /********************* work_end ****************/
 /********************* service ****************/

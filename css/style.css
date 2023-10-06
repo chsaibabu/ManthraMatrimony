@@ -1064,7 +1064,7 @@ margin-right: -9px;
 }
 #listing a.clickable { color: inherit; }
 #listing a.clickable:hover { text-decoration:none; }
-#listing a.{
+#listing a.clickable{
 color: #0e0e0e;
 text-decoration: none;
 }

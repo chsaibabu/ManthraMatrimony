@@ -542,20 +542,21 @@ font-weight: bold;
 padding-top:50px;
  }
 .service_1 h2{ 
-font-size:33px;
+font-size:35px;
 padding-bottom:18px;
 color:#777c82;
 padding-top:90px;
  }
 .service_1 h4{ 
-font-size: 27px;
+font-size: 30px;
 color: #777c82;
 padding-bottom:18px;
  }
 .service_1 p{ 
-font-size: 18px;
+font-size: 20px;
 color: #777c82;
 padding-bottom:18px;
+text-align: center;
  }
 .service_2 p a{ 
 padding: 15px 50px;

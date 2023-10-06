@@ -556,7 +556,7 @@ padding-bottom:18px;
 font-size: 20px;
 color: #777c82;
 padding-bottom:18px;
-text-align: center;
+text-align: left;
  }
 .service_2 p a{ 
 padding: 15px 50px;
@@ -571,8 +571,9 @@ border-radius: 3px;
 padding-top:10px;
  }
  .service_3 img{
-  height: 200px;
-  width: 100%;
+  border-radius: 5px;
+  height: 480px;
+  width: 70%;
  }
 /********************* service_end ****************/
 /********************* reviews ****************/

@@ -500,8 +500,11 @@ background: #ff7c0b;
 border: 1px solid #ff7c0b;
 color: #fff;
 border-radius: 3px;
-height: 50px;
-width: 50px;
+
+ }
+ .work_6 p a {
+  height: 50px;
+  width: 50px;
  }
 .work_5 p{ 
 padding-top:6px;

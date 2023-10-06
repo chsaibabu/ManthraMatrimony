@@ -478,6 +478,12 @@ border-bottom:1px solid #0274CB;
   background-color: #251839;
 padding-top:40px;
  }
+ .work_1 img {
+  margin-top: 10px;
+  vertical-align: middle;
+  height: 339px;
+  width: 300px;
+}
 .work_2 h2{ 
 color: #f3f9ff;
 font-size: 33px;

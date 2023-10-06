@@ -478,14 +478,15 @@ border-bottom:1px solid #0274CB;
 padding-top:40px;
  }
 .work_2 h2{ 
-color: #777c82;
+color: #f3f9ff;
 font-size: 33px;
+font-weight: bold;
 padding-bottom:15px;
  }
 .work_2 p{ 
 font-size:24px;
 line-height:28px;
-color: #777c82;
+color: #ffffff;
 font-weight:200;
 padding-bottom:25px;
  }

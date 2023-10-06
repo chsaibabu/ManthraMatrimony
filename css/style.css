@@ -568,7 +568,11 @@ color: #FFF;
 border-radius: 3px;
  }
 .service_3 p{ 
-padding-top:50px;
+padding-top:10px;
+ }
+ .service_3 img{
+  height: 300px;
+  width: 100%;
  }
 /********************* service_end ****************/
 /********************* reviews ****************/

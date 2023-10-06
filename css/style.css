@@ -296,8 +296,8 @@ background-image: url(../img/77.jpeg);
 padding-top: 0px;
 background-repeat: no-repeat;
 background-size: cover;
-width: 100vw;
-height: 100vh;
+width:auto;
+
  }
 .center_1 h2{ 
  padding-top:100px;
